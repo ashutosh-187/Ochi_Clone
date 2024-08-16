@@ -27,7 +27,7 @@ export default function Footer() {
                 <p className='absolute top-[35%] text-5xl tracking-tight font-["Neue_Montreal"]'>Link to the original website: {<a href='https://ochi.design/'>{<u>Ochi Designs</u>}</a>}</p>
                 <p className='absolute top-[45%] text-5xl tracking-tight font-["Neue_Montreal"]'>Feel free to send an e-mail on {<u>work.withashutosh1807@gmail.com</u>}</p>
                 <p className='absolute top-[69%] text-3xl tracking-tight font-["Neue_Montreal"]'>Do visit my {<a href='https://www.linkedin.com/in/ashutosh-tiwari-a938a6243/'>{<u>linkedin</u>}</a>} account</p>
-                <p className='absolute top-[63%] text-3xl tracking-tight font-["Neue_Montreal"]'>Source Code: {<a href='https://github.com/ashutosh-187'>{<u>My Github</u>}</a>}</p>
+                <p className='absolute top-[63%] text-3xl tracking-tight font-["Neue_Montreal"]'>Source Code: {<a href='https://github.com/ashutosh-187/Ochi_Clone'>{<u>My Github</u>}</a>}</p>
 
                 </div>
 
